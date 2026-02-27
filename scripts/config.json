@@ -1,0 +1,16 @@
+{
+  "token_name": "MyCustomToken",
+  "token_symbol": "MCT",
+  "initial_supply": 10000000,
+  "solidity_version": "0.8.30",
+  "license": "MIT",
+  "features": {
+    "mintable": true,
+    "burnable": true,
+    "pausable": true,
+    "callback": true,
+    "permit": true,
+    "flashMint": true
+  },
+  "access_control": "ownable"
+}
