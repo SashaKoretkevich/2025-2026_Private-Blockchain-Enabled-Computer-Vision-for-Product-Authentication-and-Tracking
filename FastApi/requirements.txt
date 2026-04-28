@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+qrcode[pil]
+numpy
+pillow
+ecdsa
+bitarray
+reedsolo
+pydantic
+requests
+eth-account
+web3
+python-dotenv
+python-multipart
