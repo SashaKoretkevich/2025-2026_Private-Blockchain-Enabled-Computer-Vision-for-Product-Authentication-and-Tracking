@@ -205,7 +205,7 @@ pytest tests/
 │  - QR decoding       │
 │  - Signature verify  │
 │  - UserOp builder    │ 
-│       and sender    │
+│       and sender     │
 │  - Certificate       │
 │      manegment       │
 └──────────┬───────────┘
@@ -220,8 +220,8 @@ pytest tests/
 │                  Ethereum Sepolia Testnet                │
 │                                                          │
 │  ┌─────────────────┐    ┌───────────────────────────┐    │
-│  │   Entry Point   │───▶│  CompanyAccount /          │   │
-│  │  (ERC-4337)     │    │  LogisticsAccount          │   │
+│  │   Entry Point   │───▶│  CompanyAccount /         │    │
+│  │  (ERC-4337)     │    │  LogisticsAccount         │    │
 │  └─────────────────┘    └─────────────┬─────────────┘    │
 │                                       │                  │
 │                                       ▼                  │
