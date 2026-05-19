@@ -35,7 +35,7 @@ Clone the repository and navigate into it
 
 ```
 git clone https://github.com/SashaKoretkevich/2025-2026_Private-Blockchain-Enabled-Computer-Vision-for-Product-Authentication-and-Tracking
-cd <Systemr>
+cd System
 ```
 
 The repository contains two subfolders:
@@ -66,7 +66,6 @@ cd Blockchain system
 
 ```
 npm i
-```
 npm install --save-dev @nomicfoundation/hardhat-toolbox
 ```
 
